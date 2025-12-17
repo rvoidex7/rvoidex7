@@ -56,8 +56,14 @@
   <img src="https://img.shields.io/badge/Forza%20Horizon%204-d9008d?style=for-the-badge&logo=forza&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-62b47a?style=for-the-badge&logo=minecraft&logoColor=white"/>
 </p>
-
-
-![yılan (dark)](https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/pacman-contribution-graph.svg">
+</picture>
 </div>
+</div>
+<!--
+![yılan (dark)](https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+--> 
