@@ -10,40 +10,40 @@
 ░██        ░██░██   ░██    ░██ ░██░██   ░███ ░██         ░██  ░██      ░██    
 ░██         ░███     ░███████  ░██ ░█████░██  ░███████  ░██    ░██     ░██    
                                                                               
-                                                                              
-                                                                              
 </pre>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+</div>
 
-# 👋 Hi there, I'm rvoidex7
 
-🎯 **Cross-platform developer** on a mission to create seamless, elegant, and accessible software experiences — with a side quest for gaming 🕹️
+# 👋 Hi there
 
----
+### **Cross-platform developer** on a mission to create seamless, elegant, and accessible software experiences — with a side quest for gaming 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rvoidex7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rvoidex7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ Tech Stack I Work With
 
-<p align="center">
-  <!-- Mobile & Cross-Platform -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-  <!-- Native Mobile -->
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  
-</p>
 
----
+
 
 ## 🎮 Games I Actually Play
 
@@ -56,23 +56,6 @@
   <img src="https://img.shields.io/badge/Forza%20Horizon%204-d9008d?style=for-the-badge&logo=forza&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-62b47a?style=for-the-badge&logo=minecraft&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvoidex7&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvoidex7&layout=compact&theme=radical"/>
-</div>
-
-
-
-
-
-
-
-
 
 
 ![yılan (dark)](https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
