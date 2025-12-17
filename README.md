@@ -2,6 +2,16 @@
 
 <!-- ASCII LOGO: KENDİNE GÖRE DOLDUR -->
 <pre>
+                                 ░██       ░██                       ░█████████ 
+                                         ░██                       ░██    ░██ 
+░██░████ ░██    ░██  ░███████  ░██ ░████████  ░███████  ░██    ░██       ░██  
+░███     ░██    ░██ ░██    ░██ ░██░██    ░██ ░██    ░██  ░██  ░██       ░██   
+░██       ░██  ░██  ░██    ░██ ░██░██    ░██ ░█████████   ░█████       ░██    
+░██        ░██░██   ░██    ░██ ░██░██   ░███ ░██         ░██  ░██      ░██    
+░██         ░███     ░███████  ░██ ░█████░██  ░███████  ░██    ░██     ░██    
+                                                                              
+                                                                              
+                                                                              
 </pre>
 
 # 👋 Hi there, I'm rvoidex7
@@ -56,9 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvoidex7&layout=compact&theme=radical"/>
 </div>
 
----
-
-## ☕ Let's Connect
 
 
 
@@ -67,15 +74,6 @@
 
 
 
-<p align="center">
-  <a href="mailto:ekrem7@techie.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ekrem-yakup"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</p>
-<p align="center">
-  <a href="https://buymeacoffee.com/ykpkrmzcn53" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</p> 
 
 ![yılan (dark)](https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
