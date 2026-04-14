@@ -47,19 +47,20 @@
 
 | | | |
 | :---: | :--- | :--- |
-| <img src="icons/repo2notebook.png" width="48"> | **[repo2notebook](https://github.com/rvoidex7/repo2notebook)**<br>Convert any code repository into a single markdown file for NotebookLM and other LLM tools. | 🏆 MVP Completed |
-| <img src="icons/entropy-forge.png" width="48"> | **[entropy-forge](https://github.com/rvoidex7/entropy-forge)**<br>Pluggable entropy framework for cryptographic applications with built-in quality testing, visualization, and interactive educational tools. | 🏆 MVP Completed |
-| <img src="icons/floating-ghost-image.png" width="48"> | **[floating-ghost-image](https://github.com/rvoidex7/floating-ghost-image)**<br>Android app that displays images as a semi-transparent floating overlay. | 🏆 MVP Completed |
-| <img src="icons/Labrune.png" width="48"> | **[Labrune](https://github.com/rvoidex7/Labrune)**<br>The Language Editor for NFS Games!  | 🏆 MVP Completed |
-| <img src="icons/jira-obsidian-sync.png" width="48"> | **[jira-obsidian-sync](https://github.com/rvoidex7/jira-obsidian-sync)**<br>Rust-based, Synchronizes between the Obsidian Kanban plugin and Jira Kanban | 🏆 MVP Completed |
-| <img src="icons/java-elabs-tts.png" width="48"> | **[java-elabs-tts](https://github.com/rvoidex7/java-elabs-tts)**<br>Java-based Text-to-Speech (ElevenLabs) conversion system. | 🏆 MVP Completed |
-| <img src="icons/excel-toplam-macro.png" width="48"> | **[excel-toplam-makro](https://github.com/rvoidex7/excel-toplam-makro)**<br>It performs a sum across rows in Excel (by date) | 🏆 MVP Completed |
-| <img src="icons/SatrancNotasyon.png" width="48"> | **[SatrancNotasyon](https://github.com/rvoidex7/SatrancNotasyon)**<br>You can practice chess notation | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/repo2notebook"> <img src="icons/repo2notebook.png" width="48"> <a/> | **[repo2notebook](https://github.com/rvoidex7/repo2notebook)**<br>Convert any code repository into a single markdown file for NotebookLM and other LLM tools. | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/repo2notebook"> <img src="icons/entropy-forge.png" width="48"> <a/> | **[entropy-forge](https://github.com/rvoidex7/entropy-forge)**<br>Pluggable entropy framework for cryptographic applications with built-in quality testing, visualization, and interactive educational tools. | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/floating-ghost-image"> <img src="icons/floating-ghost-image.png" width="48"> <a/> | **[floating-ghost-image](https://github.com/rvoidex7/floating-ghost-image)**<br>Android app that displays images as a semi-transparent floating overlay. | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/Labrune"> <img src="icons/Labrune.png" width="48"> <a/> | **[Labrune](https://github.com/rvoidex7/Labrune)**<br>The Language Editor for NFS Games!  | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/jira-obsidian-sync"> <img src="icons/jira-obsidian-sync.png" width="48"> <a/> | **[jira-obsidian-sync](https://github.com/rvoidex7/jira-obsidian-sync)**<br>Rust-based, Synchronizes between the Obsidian Kanban plugin and Jira Kanban | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/java-elabs-tts"> <img src="icons/java-elabs-tts.png" width="48"> <a/> | **[java-elabs-tts](https://github.com/rvoidex7/java-elabs-tts)**<br>Java-based Text-to-Speech (ElevenLabs) conversion system. | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/excel-toplam-makro"> <img src="icons/excel-toplam-macro.png" width="48"> <a/> | **[excel-toplam-makro](https://github.com/rvoidex7/excel-toplam-makro)**<br>It performs a sum across rows in Excel (by date) | 🏆 MVP Completed |
+| <a href="https://github.com/rvoidex7/SatrancNotasyon" > <img src="icons/SatrancNotasyon.png" width="48"> <a/> | **[SatrancNotasyon](https://github.com/rvoidex7/SatrancNotasyon)**<br>You can practice chess notation | 🏆 MVP Completed |
 | <span style="font-size: 2em;">⬜</span> | **[julesctl](https://github.com/rvoidex7/julesctl)** | 🚀 Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[web-intelligence-rs](https://github.com/rvoidex7/web-intelligence-rs)** | 🚀 Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[cli-chat-rs](https://github.com/rvoidex7/cli-chat-rs)** | 🚀 Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[ats-cv-Create](https://github.com/rvoidex7/ats-cv-Create)** | 🚀 Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[r7notes](https://github.com/rvoidex7/r7notes)** | 🚀 Active Dev |
+|| <h3 align="center"> [All Repositories](https://rvoidex7.github.io/r7notes/Github-Projects/All-Repositories) <h3/> ||
 
 ## 🎮 Games I Actually Play
 
