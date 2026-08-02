@@ -59,7 +59,7 @@
 | <span style="font-size: 2em;">⬜</span> | **[cli-chat-rs](https://github.com/rvoidex7/cli-chat-rs)** | Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[ats-cv-Create](https://github.com/rvoidex7/ats-cv-Create)** | Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[r7notes](https://github.com/rvoidex7/r7notes)** | Active Dev |
-|| <h3 align="center"> [All Repositories](https://rvoidex7.github.io/r7notes/Github-Projects/All-Repositories) <h3/> ||
+|| <h3 align="center"> [All Repositories](https://rvoidex7.github.io/r7notes/Projects/All-Repositories) <h3/> ||
 
 ## 🎮 Games I Actually Play
 
