@@ -53,7 +53,7 @@
 | <a href="https://github.com/rvoidex7/java-elabs-tts"> <img src="icons/java-elabs-tts.png" width="48"> <a/> | **[java-elabs-tts](https://github.com/rvoidex7/java-elabs-tts)**<br>Java-based Text-to-Speech (ElevenLabs) conversion system. | MVP Completed |
 | <a href="https://github.com/rvoidex7/excel-toplam-makro"> <img src="icons/excel-toplam-macro.png" width="48"> <a/> | **[excel-toplam-makro](https://github.com/rvoidex7/excel-toplam-makro)**<br>It performs a sum across rows in Excel (by date) | MVP Completed |
 | <a href="https://github.com/rvoidex7/SatrancNotasyon" > <img src="icons/SatrancNotasyon.png" width="48"> <a/> | **[SatrancNotasyon](https://github.com/rvoidex7/SatrancNotasyon)**<br>You can practice chess notation | MVP Completed |
-| <span style="font-size: 2em;">⬜</span> | **[entropy-forge](https://github.com/rvoidex7/entropy-forge)** | Active Dev |
+| <span style="font-size: 2em;">⬜</span> | **[r7crypto](https://github.com/rvoidex7/r7crypto)** | Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[CrawlCipher](https://github.com/rvoidex7/CrawlCipher)** | Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[web-intelligence-rs](https://github.com/rvoidex7/web-intelligence-rs)** | Active Dev |
 | <span style="font-size: 2em;">⬜</span> | **[ats-cv-Create](https://github.com/rvoidex7/ats-cv-Create)** | Active Dev |
